@@ -10,3 +10,11 @@ Current version: 3.5.0
 Source examples:
 * [http://www.headfirstlabs.com/books/hfpython/](http://www.headfirstlabs.com/books/hfpython/)
 * [http://programming.itcarlow.ie/](http://programming.itcarlow.ie/)
+
+###Meet Python
+* IDLE: Integrated Development Environment
+* The characters `>>>` are called 'triple chevron'.
+* Python code needs to be indented (instead of C-like languages which use {}).
+* BIF: built-in function
+
+**Bookmark:** page 4
