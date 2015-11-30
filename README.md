@@ -19,6 +19,8 @@ Current version: 3.5.0
 * **Suite:** a block of Python code, which is indented to indicate grouping.
 * It is case sensitive!
 * Lists can contain anything!
+* Lists in Python high-level collections, the are collection objects.
+* Python lists can contain data of mixed type.
 * `isinstance(variableName, variableType)` 
 * This Python philosophy is known as “batteries included”: there’s enough included with Python to let you do most things well, without having to rely on code from third parties to get going
 * Identifiers are names that refer to data objects. The identifiers have no “type,” but the data objects that they refer to do.
