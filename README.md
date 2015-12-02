@@ -33,7 +33,8 @@ Current version: 3.5.0
   
 ##Chapter 2: Modules of functions
 * The Python Package Index (or PyPI for short) provides a centralized repository for third-party Python modules on the Internet. When you are ready, you’ll use PyPI to publish your module and make your code available for use by others.
-* Comments: use a triple quote for multiple-line comments, or `#` for a single line.
+* A module is simply a text file that contains Python code. The main requirement is that the name of the file needs to end in .py.
+* Comments: use a triple double-quote for multiple-line comments, or `#` for a single line.
 * Where are the Python modules?:
  * Run the IDLE: `python`
  * `import sys;`
@@ -42,6 +43,24 @@ Current version: 3.5.0
  1. Create setup.py under a folder
  2. Build the distribution file: `python3 setup.py sdist`
  3. Install your distribution into your local copy of Python: `python3 setup.py install`
- 
+* To use a module, simply import it into your programs or import it into the IDLE shell
 
-**Bookmark Head First Python:** page 40
+###Namespaces
+All code in Python is associated with a namespace.
+Code in your main Python program (and within IDLE’s shell) is associated with a namespace called __main__. 
+When you put your code into its own module, Python automatically creates a namespace with the same name as your module.
+
+* Register at [https://pypi.python.org](https://pypi.python.org)
+ * For testing [https://wiki.python.org/moin/TestPyPI](https://wiki.python.org/moin/TestPyPI) >> create ~/.pypirc
+  1. Modify `~/.pypirc`
+  2. `python3 setup.py register -r https://testpypi.python.org/pypi`
+  3. `python3 setup.py **sdist** upload -r https://testpypi.python.org/pypi`
+
+**pyc**: When the interpreter executes your module code for the first time, it reads in the code and translates it into an internal bytecode format which is ultimately executed. The Python interpreter is smart enough to skip the translation phase the next time your module is used, because it can determine when you’ve made changes to the original module code file. If your module code hasn’t changed, no translation occurs and the “compiled” code is executed. If your code has changed, the translation occurs (creating a new pyc file) as needed. The upshot of all this is that when Python sees a pyc file, it tries to use it because doing so makes everything go much faster.
+
+`for num in range(4):`
+
+* the BIFs have their very own namespace called (wait for it) __builtins__
+
+
+**Bookmark Head First Python:** page 50
