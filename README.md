@@ -55,12 +55,15 @@ When you put your code into its own module, Python automatically creates a names
   1. Modify `~/.pypirc`
   2. `python3 setup.py register -r https://testpypi.python.org/pypi`
   3. `python3 setup.py **sdist** upload -r https://testpypi.python.org/pypi`
+  4. `pip install -i https://testpypi.python.org/pypi <packageName>`
 
 **pyc**: When the interpreter executes your module code for the first time, it reads in the code and translates it into an internal bytecode format which is ultimately executed. The Python interpreter is smart enough to skip the translation phase the next time your module is used, because it can determine when you’ve made changes to the original module code file. If your module code hasn’t changed, no translation occurs and the “compiled” code is executed. If your code has changed, the translation occurs (creating a new pyc file) as needed. The upshot of all this is that when Python sees a pyc file, it tries to use it because doing so makes everything go much faster.
 
 `for num in range(4):`
 
 * the BIFs have their very own namespace called (wait for it) __builtins__
+* Including end=’’ as a argument to the print() BIF switches off its automatic inclusion of a new-line on output.
 
+##Chapter 3: files and exceptions
 
-**Bookmark Head First Python:** page 50
+**Bookmark Head First Python:** page 75
