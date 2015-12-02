@@ -6,6 +6,11 @@ Playground for learning about Python.
 
 Current version: 3.5.0
 
+## Python koans
+[https://github.com/gregmalcolm/python_koans/wiki](https://github.com/gregmalcolm/python_koans/wiki)
+
+
+
 ## Head First Python
 ###Source examples:
 * [http://www.headfirstlabs.com/books/hfpython/](http://www.headfirstlabs.com/books/hfpython/)
