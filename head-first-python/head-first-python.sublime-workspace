@@ -1,0 +1,1421 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"po",
+				"pollError"
+			],
+			[
+				"pol",
+				"pollErrorCount"
+			],
+			[
+				"http",
+				"httpAdr"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"an",
+				"answer"
+			],
+			[
+				"req",
+				"requests"
+			],
+			[
+				"store",
+				"stored_gplus_id"
+			],
+			[
+				"acce",
+				"access_token"
+			],
+			[
+				"acc",
+				"access_token"
+			],
+			[
+				"one",
+				"one-time-code"
+			],
+			[
+				"clien",
+				"client_secrets"
+			],
+			[
+				"method",
+				"methods"
+			],
+			[
+				"auth",
+				"authResult"
+			],
+			[
+				"login",
+				"login_session"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"i",
+				"id"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"closes",
+				"closest"
+			],
+			[
+				"anagr",
+				"anagram_list"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"deli",
+				"delicious"
+			],
+			[
+				"original",
+				"original_word"
+			],
+			[
+				"fet",
+				"fetch"
+			],
+			[
+				"origi",
+				"original_words"
+			],
+			[
+				"orig",
+				"original_word"
+			],
+			[
+				"ana",
+				"anagram"
+			],
+			[
+				"ord",
+				"ordered_word"
+			],
+			[
+				"word",
+				"words_with_ordered_letters"
+			],
+			[
+				"wor",
+				"words_with_ordered_letters"
+			],
+			[
+				"winner",
+				"winner_list"
+			],
+			[
+				"rps",
+				"rps_game_winner"
+			],
+			[
+				"assert",
+				"assert_equal"
+			],
+			[
+				"bet",
+				"bet2"
+			],
+			[
+				"count",
+				"count_doobee_expected"
+			],
+			[
+				"co",
+				"count_expected_panama"
+			],
+			[
+				"count_w",
+				"test_count_words"
+			],
+			[
+				"revers",
+				"reversed_string"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/islomar/workspace/poc-python/README.md",
+			"settings":
+			{
+				"buffer_size": 1928,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/islomar/workspace/poc-docker/docker-compose-example/docker-compose.yml",
+			"settings":
+			{
+				"buffer_size": 133,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/islomar/workspace/poc-docker/kubernetes/run-example.sh",
+			"settings":
+			{
+				"buffer_size": 851,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/islomar/workspace/poc-docker/README.md",
+			"settings":
+			{
+				"buffer_size": 27526,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/islomar/workspace/poc-docker/docker-machine/README.md",
+			"settings":
+			{
+				"buffer_size": 714,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/islomar/workspace/poc-docker/kubernetes/README.md",
+			"settings":
+			{
+				"buffer_size": 2046,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/islomar/workspace/poc-docker/base-images/README.md",
+			"settings":
+			{
+				"buffer_size": 3225,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"Set Syntax: Regular Expressions (Python)"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/islomar/workspace/poc-golang/src/github.com/islomar/go-version-polling-example/go-version-polling-checker.go",
+		"/Users/islomar/workspace/poc-golang/README.md",
+		"/Users/islomar/workspace/poc-golang/src/github.com/islomar/general/multiple-results.go",
+		"/Users/islomar/workspace/poc-golang/src/github.com/islomar/general/named-results.go",
+		"/Users/islomar/workspace/poc-golang/src/github.com/islomar/general/variables.go",
+		"/Users/islomar/workspace/poc-golang/src/github.com/islomar/expvar/expvar.go",
+		"/Users/islomar/workspace/poc-golang/src/github.com/islomar/http-server-example/http-server-example.go",
+		"/Users/islomar/workspace/poc-golang/src/github.com/islomar/http-example/http-client-example.go",
+		"/Users/islomar/workspace/poc-golang/src/github.com/islomar/http-example/http-server-example.go",
+		"/Users/islomar/workspace/poc-golang/src/github.com/islomar/flag/flag.go",
+		"/Users/islomar/workspace/poc-golang/src/github.com/islomar/string/string.go",
+		"/Users/islomar/workspace/poc-golang/src/github.com/islomar/goroutines/goroutines.go",
+		"/Users/islomar/workspace/poc-golang/src/github.com/islomar/hello/hello.go",
+		"/Users/islomar/workspace/poc-golang/src/github.com/islomar/string/string_test.go",
+		"/Users/islomar/workspace/poc-golang/src/github.com/islomar/html-template/html-template.go",
+		"/Users/islomar/workspace/poc-golang/src/github.com/islomar/sync-example/sync-example.go",
+		"/Users/islomar/workspace/poc-golang/src/github.com/islomar/http-example/http-example.go",
+		"/Users/islomar/workspace/poc-golang/src/github.com/islomar/sync/sync.go",
+		"/Users/islomar/workspace/poc-golang/src/github.com/user/goroutines.go",
+		"/Users/islomar/workspace/poc-golang/src/github.com/user/hello/hello.go",
+		"/Users/islomar/workspace/url-shortener-2/src/main/java/com/islomar/yaus/web/Application.java",
+		"/Users/islomar/workspace/minigame-api/src/main/java/com/king/minigame/server/MinigameHTTPServer.java",
+		"/Users/islomar/workspace/poc-golang/.gitignore",
+		"/Users/islomar/workspace/poc-golang/HelloWorld.go",
+		"/Users/islomar/workspace/myapp/src/main/java/com/example/DemoApplication.java",
+		"/Users/islomar/workspace/myapp/Procfile",
+		"/Users/islomar/workspace/myapp/pom.xml",
+		"/Users/islomar/workspace/myapp/src/main/resources/application.properties",
+		"/Users/islomar/workspace/parrotter/.gitignore",
+		"/Users/islomar/workspace/url-shortener-2/README.md",
+		"/Users/islomar/workspace/myapp/src/test/java/com/example/DemoApplicationTests.java",
+		"/Users/islomar/workspace/url-shortener-2/.gitignore",
+		"/Users/islomar/workspace/url-shortener-2/src/main/java/com/islomar/yaus/web/HelloController.java",
+		"/Users/islomar/workspace/url-shortener-2/src/test/java/ShortenUrlFeature.java",
+		"/Users/islomar/workspace/url-shortener-2/pom.xml",
+		"/Users/islomar/workspace/minigame-api/src/main/java/com/king/minigame/controller/LoginController.java",
+		"/Users/islomar/workspace/minigame-api/src/main/java/com/king/minigame/server/Response.java",
+		"/Users/islomar/workspace/minigame-api/src/main/java/com/king/minigame/server/HttpRequestMethod.java",
+		"/Users/islomar/workspace/minigame-api/src/main/java/com/king/minigame/server/handler/LoginRequestHandler.java",
+		"/Users/islomar/workspace/minigame-api/src/main/java/com/king/minigame/server/handler/PostUserScoreToLevelRequestHandler.java",
+		"/Users/islomar/workspace/url-shortener-2/src/main/java/com/islomar/yaus/core/UrlShortener.java",
+		"/Users/islomar/workspace/parrotter/src/main/java/com/islomar/parrotter/model/message/MessageService.java",
+		"/Users/islomar/workspace/parrotter/src/main/java/com/islomar/parrotter/infrastructure/repositories/UserRepository.java",
+		"/Users/islomar/workspace/parrotter/pom.xml",
+		"/Users/islomar/workspace/parrotter/src/test/java/com/islomar/parrotter/model/message/MessageServiceShould.java",
+		"/Users/islomar/workspace/minigame-api/src/main/java/com/king/minigame/server/handler/HighScoreListRequestHandler.java",
+		"/Users/islomar/workspace/minigame-api/src/main/java/com/king/minigame/controller/GameLevelController.java",
+		"/Users/islomar/workspace/minigame-api/src/main/java/com/king/minigame/app/MinigameApp.java",
+		"/Users/islomar/workspace/minigame-api/src/main/java/com/king/minigame/server/handler/RootHttpHandler.java",
+		"/Users/islomar/workspace/parrotter/src/main/java/com/islomar/parrotter/actions/ShowUserWall.java",
+		"/Users/islomar/workspace/parrotter/src/main/java/com/islomar/parrotter/actions/FollowUser.java",
+		"/Users/islomar/workspace/parrotter/src/test/java/com/islomar/parrotter/feature/ShowUserWallFeature.java",
+		"/Users/islomar/workspace/parrotter/src/test/java/com/islomar/parrotter/feature/ReadUserTimelineFeature.java",
+		"/Users/islomar/workspace/videogames-scraper/otogami-server/pom.xml",
+		"/Users/islomar/workspace/videogames-scraper/otogami-server/src/main/java/com/otogami/server/rest/VideogameRestController.java",
+		"/Users/islomar/workspace/videogames-scraper/otogami-server/src/main/java/com/otogami/server/service/VideogameService.java",
+		"/Users/islomar/workspace/videogames-scraper/otogami-server/src/main/java/com/otogami/server/dao/VideogameDao.java",
+		"/Users/islomar/workspace/videogames-scraper/otogami-server/src/main/java/com/otogami/server/dao/VideogameDatabaseDao.java",
+		"/Users/islomar/workspace/minigame-api/pom.xml",
+		"/Users/islomar/workspace/poc-heroku/README.md",
+		"/Users/islomar/workspace/url-shortener/pom.xml",
+		"/Users/islomar/workspace/parrotter/src/test/java/com/islomar/parrotter/feature/FollowUserTimelineFeature.java",
+		"/Users/islomar/workspace/parrotter/src/main/java/com/islomar/parrotter/app/ParrotterApplicationLauncher.java",
+		"/Users/islomar/workspace/parrotter/src/test/java/com/islomar/parrotter/actions/ShowUserWallShould.java",
+		"/Users/islomar/workspace/parrotter/src/test/java/com/islomar/parrotter/model/message/InMemoryMessageRepositoryShould.java",
+		"/Users/islomar/workspace/parrotter/README.md",
+		"/Users/islomar/workspace/url-shortener/README.md",
+		"/Users/islomar/workspace/url-shortener/.travis.yml",
+		"/Users/islomar/workspace/parrotter/.travis.yml",
+		"/Users/islomar/workspace/minigame-api/src/main/java/com/king/minigame/session/SessionService.java",
+		"/Users/islomar/workspace/url-shortener/Procfile",
+		"/Users/islomar/workspace/minigame-api/README.md",
+		"/Users/islomar/workspace/poc-heroku/java-getting-started/README.md",
+		"/Users/islomar/workspace/poc-heroku/java-getting-started/src/main/java/Main.java",
+		"/Users/islomar/workspace/videogames-scraper/README.md",
+		"/Users/islomar/workspace/videogames-scraper/pom.xml",
+		"/Users/islomar/workspace/videogames-scraper/otogami-frontend/src/main/webapp/WEB-INF/templates/index.ftl",
+		"/Users/islomar/workspace/videogames-scraper/otogami-frontend/src/main/webapp/WEB-INF/web.xml",
+		"/Users/islomar/workspace/videogames-scraper/otogami-frontend/pom.xml",
+		"/Users/islomar/workspace/url-shortener/src/main/java/App.java",
+		"/Users/islomar/workspace/url-shortener/src/test/java/AppShould.java",
+		"/Users/islomar/workspace/functional-programming/haskell/README.md",
+		"/Users/islomar/workspace/functional-programming/haskell/baby.hs",
+		"/Users/islomar/sparkvagrant/week-2.md",
+		"/Users/islomar/sparkvagrant/week-1.md",
+		"/Users/islomar/sparkvagrant/README.md",
+		"/Users/islomar/workspace/functional-programming/README.md",
+		"/Users/islomar/workspace/functional-programming/scala/README.md",
+		"/Users/islomar/workspace/poc-haskell/baby.hs",
+		"/Users/islomar/.gitignore_global",
+		"/Users/islomar/workspace/parrotter/src/main/java/com/islomar/parrotter/app/ParrotterApplication.java",
+		"/Users/islomar/workspace/parrotter/src/main/java/com/islomar/parrotter/infrastructure/Console.java",
+		"/Users/islomar/workspace/trip-service-kata/java/trip-service-kata/README.markdown",
+		"/Users/islomar/npm-debug.log",
+		"/Users/islomar/workspace/poc-docker/README.md",
+		"/Users/islomar/.gitconfig",
+		"/Users/islomar/sparkvagrant/LAB_1/solutions/ML_lab1_review_student.py",
+		"/Users/islomar/sparkvagrant/week-3.md",
+		"/Users/islomar/Techie/workspace/chatter/src/main/java/org/chatter/user/User.java",
+		"/Users/islomar/Techie/workspace/chatter/src/main/java/org/chatter/Message.java",
+		"/Users/islomar/Techie/workspace/minigame-api/src/main/java/com/king/minigame/session/UserRepository.java",
+		"/Users/islomar/Techie/workspace/minigame-api/src/main/java/com/king/minigame/session/UserSession.java",
+		"/Users/islomar/Techie/workspace/minigame-api/src/main/java/com/king/minigame/server/handler/PostUserScoreToLevelRequestHandler.java",
+		"/Users/islomar/Techie/workspace/minigame-api/src/main/java/com/king/minigame/session/SessionService.java",
+		"/Users/islomar/Techie/workspace/minigame-api/src/main/java/com/king/minigame/core/GameLevelService.java",
+		"/Users/islomar/Techie/workspace/chatter/src/main/java/org/chatter/user/Users.java",
+		"/Users/islomar/Techie/workspace/chatter/src/main/java/org/chatter/command/commands/string/TimelineCommand.java",
+		"/Users/islomar/Techie/workspace/chatter/src/main/java/org/chatter/command/commands/string/WallCommand.java",
+		"/Users/islomar/Techie/workspace/chatter/src/main/java/org/chatter/CommandBuilder.java",
+		"/Users/islomar/Techie/workspace/minigame-api/src/main/java/com/king/minigame/server/handler/HighScoreListRequestHandler.java",
+		"/Users/islomar/Techie/workspace/console-microblog/src/main/java/sh/kinte/ConsoleMicroblog/Logic/Commander.java",
+		"/Users/islomar/Techie/workspace/console-microblog/src/main/java/sh/kinte/ConsoleMicroblog/Data/PostDO.java",
+		"/Users/islomar/Techie/workspace/console-microblog/src/main/java/sh/kinte/ConsoleMicroblog/Data/PostDOImpl.java",
+		"/Users/islomar/Techie/workspace/minigame-api/README.md",
+		"/Users/islomar/Techie/workspace/chatter/src/main/java/org/chatter/command/string/StringCommandChooser.java",
+		"/Users/islomar/Techie/workspace/chatter/src/main/java/org/chatter/command/string/StringCommandInvoker.java",
+		"/Users/islomar/Techie/workspace/chatter/src/main/java/org/chatter/command/string/StringCommandFactory.java",
+		"/Users/islomar/Techie/workspace/chatter/src/main/java/org/chatter/command/commands/string/StringCommand.java",
+		"/Users/islomar/Techie/workspace/chatter/src/main/java/org/chatter/command/commands/OperatorTypeChooser.java",
+		"/Users/islomar/Techie/workspace/console-microblog/src/main/java/sh/kinte/ConsoleMicroblog/Entity/CommandType.java",
+		"/Users/islomar/Techie/workspace/minigame-api/pom.xml",
+		"/Users/islomar/Techie/workspace/minigame-api/src/test/java/com/king/minigame/core/model/LevelTest.java",
+		"/Users/islomar/Techie/workspace/minigame-api/src/test/java/com/king/minigame/core/model/UserScoreTest.java",
+		"/Users/islomar/Techie/workspace/minigame-api/src/test/java/com/king/minigame/core/model/UserTest.java",
+		"/Users/islomar/Techie/workspace/minigame-api/src/test/java/com/king/minigame/core/GameLevelServiceIT.java",
+		"/Users/islomar/Techie/workspace/minigame-api/src/main/java/com/king/minigame/server/MinigameHTTPServer.java",
+		"/Users/islomar/Techie/workspace/minigame-api/src/main/java/com/king/minigame/server/HttpRequestMethod.java",
+		"/Users/islomar/Techie/workspace/minigame-api/src/main/java/com/king/minigame/server/handler/LoginRequestHandler.java"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ssh",
+			"	\"flag\"",
+			"//",
+			"elem",
+			"let",
+			"collect",
+			"split(",
+			"take",
+			"sort",
+			"verify",
+			"transformation",
+			"actions",
+			"lambda",
+			"map",
+			"RDD",
+			"Spark",
+			"spark",
+			"response_type",
+			"scope",
+			"client_secrets",
+			"oauth2server.com",
+			"oauth2server.com/auth",
+			"https://oauth2server.com/auth",
+			"you are now logged",
+			"get_flashed_messages",
+			"you are now",
+			"You are now",
+			"you are now",
+			"print",
+			"define",
+			"provider",
+			"bootstrap",
+			"getDbPropertiesFile",
+			"setEclipseLinkProperties",
+			"768px",
+			"></",
+			"my_words"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/islomar/workspace/poc-python/README.md",
+					"settings":
+					{
+						"buffer_size": 1928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1928,
+								1928
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/islomar/workspace/poc-docker/docker-compose-example/docker-compose.yml",
+					"settings":
+					{
+						"buffer_size": 133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/islomar/workspace/poc-docker/kubernetes/run-example.sh",
+					"settings":
+					{
+						"buffer_size": 851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								449,
+								449
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/islomar/workspace/poc-docker/README.md",
+					"settings":
+					{
+						"buffer_size": 27526,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 52,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										17884,
+										17898
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 5720.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/islomar/workspace/poc-docker/docker-machine/README.md",
+					"settings":
+					{
+						"buffer_size": 714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								660,
+								660
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/islomar/workspace/poc-docker/kubernetes/README.md",
+					"settings":
+					{
+						"buffer_size": 2046,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1942,
+								1942
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/islomar/workspace/poc-docker/base-images/README.md",
+					"settings":
+					{
+						"buffer_size": 3225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 365.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 244.0
+	},
+	"output.find_results":
+	{
+		"height": 391.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true
+}

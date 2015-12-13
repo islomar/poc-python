@@ -65,18 +65,46 @@ When you put your code into its own module, Python automatically creates a names
 * Including end=’’ as a argument to the print() BIF switches off its automatic inclusion of a new-line on output.
 
 ##Chapter 3: files and exceptions
-* `data = open('sketch.txt')`
+* `data = open('sketch.txt')` 
 * `data.readline()`
 * `data.seek(0)`: it can be used to “rewind” a file to the beginning.
 * `data.close()`
 * `each_line.find(':')`
 * A **traceback** is a detailed description of the runtime error that has occurred.
-* `try: except:`
+* `try: except: finally:`
 * A **ValueError** occurs when your data does not conform to an expected format.
 * There are two types of list in Python: those that can change (enclosed in square brackets) and those that cannot be changed once they have been created (enclosed in regular brackets). The latter is an **immutable list**, more commonly referred to as a **tuple**. Think of tuples as the same as a list, except for one thing: once created, the data they hold cannot be changed under any circumstances. 
 Another way to think about tuples is to consider them to be a constant list. At Head First, we pronounce “tuple” to rhyme with “couple.” Others pronounce “tuple” to rhyme with “rupal.” There is no clear concensus as to which is correct, so pick one and stick to it.
 * When you have a situation where you might be expected to provide code, but don’t need to, use Python’s **pass** statement (which you can think of as the
 empty or null statement): it does nothing.
 
+## Chapter 4: Persistence, saving data to files
+* The “strip()” method removes unwanted whitespace from a string.
+* `if: elif:`
+* `data = open('sketch.txt', 'w')`` >> open in write mode
+ * When you use access mode w, Python opens your named file for writing. If the file already exists, it is cleared of its contents, or
+clobbered. To append to a file, use access mode **a**, and to open a file for writing and reading (without clobbering), use **w+**. If you
+try to open a file for writing that does not already exist, it is first created for you, and then opened for writing.
+* print("Norwegian Blues stun easily.", file=out) >> file=the name of the data file objet to write to
+* `out.close()` >> When you’re done, be sure to close the file to ensure all of your data is written to disk. This is known as flushing and is very important:
+* Strings in Python are immutable.
+* Python variables contain a reference to a data object. All of the number types are immutable.
+* The locals() BIF returns a collection of names defined in the current scope:
+	`finally:
+		if 'data' in locals():
+			data.close()`
+* `except IOError as err:
+		print('File error: ' + str(err))`
+* Use **with** to work with files (When you use with, you no longer have to worry about closing any opened files):
+`
+try:
+	with open('its.txt', "w") as data:
+		print("It's...", file=data)
+except IOError as err:
+	print('File error: ' + str(err))
+`
+ * The with statement takes advantage of a Python technology called **the context management protocol**.
 
-**Bookmark Head First Python:** page 105 (chapter 4)
+
+
+**Bookmark Head First Python:** page 124 (chapter 4)
