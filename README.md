@@ -95,7 +95,7 @@ try to open a file for writing that does not already exist, it is first created 
 			data.close()`
 * `except IOError as err:
 		print('File error: ' + str(err))`
-* Use **with** to work with files (When you use with, you no longer have to worry about closing any opened files):
+* Use **with** to work with files (When you use with, you no longer have to worry about closing any opened files, even when exceptions occure):
 `
 try:
 	with open('its.txt', "w") as data:
@@ -104,7 +104,15 @@ except IOError as err:
 	print('File error: ' + str(err))
 `
  * The with statement takes advantage of a Python technology called **the context management protocol**.
+* In Python, standard output is referred to as **sys.stdout**
+* Python ships with a standard library called **pickle**, which can save and load almost any Python data object, including lists. Once you pickle your data to a file, it is persistent and ready to be read into another program at some later date/time.
+ * You can, for example, store your pickled data on disk, put it in a database, or transfer it over a network to another computer. When you are ready, reversing this process unpickles your persistent pickled data and recreates your data in its original form within Python’s memory
+ * Save with pickle.dump()** and restore with **pickle.load()**
+ `with open('mydata.pickle', 'wb') as mysavedata:
+		pickle.dump([1, 2, 'three'], mysavedata)`
+ * `b` tells Python to open the file in binary mode.
+* **Pickling** - the process of saving a data object to persistence storage.
+* **Unpickling** - the process of restoring a saved data object from persistence storage.
 
 
-
-**Bookmark Head First Python:** page 124 (chapter 4)
+**Bookmark Head First Python:** page 139 (chapter 5)
