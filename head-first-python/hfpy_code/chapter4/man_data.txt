@@ -1,1 +1,40 @@
-['Is this the right room for an argument?', "No you haven't!", 'When?', "No you didn't!", "You didn't!", 'You did not!', 'Ah! (taking out his wallet and paying) Just the five minutes.', 'You most certainly did not!', "Oh no you didn't!", "Oh no you didn't!", "Oh look, this isn't an argument!", "No it isn't!", "It's just contradiction!", 'It IS!', 'You just contradicted me!', 'You DID!', 'You did just then!', '(exasperated) Oh, this is futile!!', 'Yes it is!']
+(lp0
+S'Is this the right room for an argument?'
+p1
+aS"No you haven't!"
+p2
+aS'When?'
+p3
+aS"No you didn't!"
+p4
+aS"You didn't!"
+p5
+aS'You did not!'
+p6
+aS'Ah! (taking out his wallet and paying) Just the five minutes.'
+p7
+aS'You most certainly did not!'
+p8
+aS"Oh no you didn't!"
+p9
+aS"Oh no you didn't!"
+p10
+aS"Oh look, this isn't an argument!"
+p11
+aS"No it isn't!"
+p12
+aS"It's just contradiction!"
+p13
+aS'It IS!'
+p14
+aS'You just contradicted me!'
+p15
+aS'You DID!'
+p16
+aS'You did just then!'
+p17
+aS'(exasperated) Oh, this is futile!!'
+p18
+aS'Yes it is!'
+p19
+a.

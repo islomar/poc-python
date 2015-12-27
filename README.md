@@ -115,4 +115,45 @@ except IOError as err:
 * **Unpickling** - the process of restoring a saved data object from persistence storage.
 
 
-**Bookmark Head First Python:** page 139 (chapter 5)
+## Chapter 5: Comprehending data
+* `data.sort()`: in-place sorting (the list is replaced)
+* `data2 = sorted(data, reverse=True)`: copied sorting
+* **List comprehension:** specifying the transformation that is to be applied to each of the data items within an existing list.
+* Comprehending list: `clean_mikey = [sanitize(each_t) for each_t in mikey]`
+* `distances = set(james)`: data items in a set are unordered and duplicates are not allowed. 
+* **Factory Function:** A factory function is used to make new data items of a particular type. For instance, “set()” is a factory function because it makes a new set. In the real world, factories make things, hence the name.
+* `my_list[3:6]`: a slice.
+
+
+## Chapter 6: custom data objects
+* **dictionary:** it associates data values with keys (like a Map, Hash, associate array, etc.) 
+* **Dictionary:** A built-in data structure (included with Python) that allows you to associate data with keys, as opposed to numbers. This lets your in-memory data closely match the structure of your actual data
+* In order to create a dictionary: 
+ * `cleese = {}`
+ * `palin = dict()`
+ * `palin['Name']` Use square brackets to index into the dictionary to access data items, but instead of numbers, index with keys.               
+ * `cleese['Occupations'][-1]` Use numbers to access a list item stored at a particular dictionary key. Think of this as “index-chaining” and read from right to left: “…the last item of the list associated with Occupations…”.
+* **Python classes:**
+ * Python uses class to create objects. Every defined class has a special method called `__init__()`, which allows you to control how objects are initialized. Methods within your class are defined in much the same way as functions, that is, using **def**.
+ * `class Athlete:
+        def __init__(self):`  
+ * To create a new class: `a = Athlete()`
+ When Python processes this line of code, it turns the factory function call into the following call, which identifies the class, the method (which is automatically  set to __init__()), and the object instance being operated on: `Athlete().__init__(a)`
+ * **self** needs to be the first argument to every object method you write.  
+ `d.how_big() >> Athlete.how_big(d)`
+ * In order to inherite from another class: `class Athlete(superClass):`
+ * Every attribute in a class must be prefixed with `self.` in order to associate it data with its instance.
+* `dir(objectName)`: show all the attributes of the object
+* Python supports multiple inheritance
+* If you save your AthleteList class to a file called athletelist.py, you can import the into your code using this line of code: `from athletelist import AthleteList` 
+ 
+ 
+## Chapter 7: web development
+* This dynamic content generation process has been standardized since the early days of the Web and is known
+  as the **Common Gateway Interface (CGI)**. Programs that conform to the standard are often referred to as CGI scripts. 
+* `from string import Template`: Import the “Template” class from the standard library’s “string” module. This allows for simple string-substitution templates. 
+* **The Common Gateway Interface (CGI)** is an Internet standard that allows for a web server to run a server-side program, known as a CGI script.
+* `import glob` : The **glob** module lets you query your operating system for a list of file names.
+
+
+**Bookmark Head First Python:** page 244 (chapter 7)
