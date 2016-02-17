@@ -28,6 +28,11 @@ There are many styles of asynchronous interfaces:
 * Deliver to a queue
 * Callback registry (e.g. POSIX signals)
 
+
+##Coroutines
+**Coroutines are the recommended way to write asynchronous code in Tornado**. Coroutines use the Python yield keyword to suspend and resume execution instead of a chain of callbacks (cooperative lightweight threads as seen in frameworks like gevent are sometimes called coroutines as well, but in Tornado all coroutines use explicit context switches and are called as asynchronous functions).
+
+
 ##Ideas for Alea
 * Everything async.
 * Use of (Futures)[http://www.tornadoweb.org/en/stable/guide/async.html].
