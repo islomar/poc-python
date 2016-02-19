@@ -1,9 +1,9 @@
 #Tornado
-Playground for learning about the (Tornado web framework)[http://www.tornadoweb.org/en/stable/].
+Playground for learning about the [Tornado web framework](http://www.tornadoweb.org/en/stable/).
 
 
 ##Links
-* (GitHub source code)[https://github.com/tornadoweb/tornado]
+* [GitHub source code](https://github.com/tornadoweb/tornado)
 
 
 ##Instructions
@@ -35,4 +35,4 @@ There are many styles of asynchronous interfaces:
 
 ##Ideas for Alea
 * Everything async.
-* Use of (Futures)[http://www.tornadoweb.org/en/stable/guide/async.html].
+* Use of [Futures](http://www.tornadoweb.org/en/stable/guide/async.html).
