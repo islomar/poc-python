@@ -2,7 +2,7 @@ Last python version: 3.5.1
 
 https://hub.docker.com/_/python/
 
-
+docker run -p hostPort:containerPort
 
 #Manual installation
 virtualenv -p /usr/local/bin/python3.5 tornado-ve
