@@ -1,8 +1,17 @@
 version: '2'
 services:
-  tornado-poc:
-    container_name: tornado-poc
-    build: .
+  tornado-nginx:
+    image: nginx
+    container_name: tornado-nginx
+    links:
+     - tornado-web:tornado-web
+    ports:
+     - "80:80"
+    volumes:
+     - ./nginx.conf:/etc/nginx/nginx.conf:ro
+  tornado-web:
     image: islomar/tornado-poc
+    container_name: tornado-web
+    build: .
     ports:
       - "8888:8888"
