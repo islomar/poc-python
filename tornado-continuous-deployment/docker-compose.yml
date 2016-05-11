@@ -1,8 +1,8 @@
 version: '2'
 services:
   tornado-poc:
-    #container_name: tornado-poc
+    container_name: tornado-poc
     build: .
-    #image: islomar/tornado-poc
+    image: islomar/tornado-poc
     ports:
       - "8888:8888"
