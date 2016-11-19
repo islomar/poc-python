@@ -58,4 +58,6 @@ target/
 
 .idea/
 
+.vscode/
+
 *-ve/
