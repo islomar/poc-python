@@ -24,6 +24,10 @@ https://docs.python.org/3/library/multiprocessing.html
 `class multiprocessing.Pool([processes[, initializer[, initargs[, maxtasksperchild]]]])`
 `processes` is the number of worker processes to use. If processes is None then the number returned by cpu_count() is used. 
 
+##Communication
+* Queue: one way communication
+* Pipe: two way communications
+
 ##Example with profiling
 cProfile and multiprocessing are not good friends... it crashes!
 For that reason, you should use it inside your code :-(

@@ -8,8 +8,8 @@ def f(n, a):
 
 # Data can be stored in a shared memory map using Value or Array.
 if __name__ == '__main__':
-    num = Value('d', 0.0)
-    arr = Array('i', range(10))
+    num = Value('d', 0.0) #d means 'double'
+    arr = Array('i', range(10)) #i means 'integer'
 
     p = Process(target=f, args=(num, arr))
     p.start()
