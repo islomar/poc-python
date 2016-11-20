@@ -2,12 +2,13 @@
 
 https://julien.danjou.info/blog/2015/guide-to-python-profiling-cprofile-concrete-case-carbonara
 
-##Instructions
+##Instructions for installing a profiling visualization tool
 ##Option 1
 1. Install https://jiffyclub.github.io/snakeviz/
 2. Run `pip install snakeviz`
 3. Run `snakeviz <filename.cprof>`
 
+##Option 2
 1. Install pyprof2calltree
 `pip install pyprof2calltree`
 
