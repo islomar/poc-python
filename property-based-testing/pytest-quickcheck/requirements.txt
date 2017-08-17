@@ -1,0 +1,1 @@
+pytest-quickcheck==0.8.3
