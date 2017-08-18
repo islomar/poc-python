@@ -2,9 +2,9 @@
 
 Libraries used:
 
-* Factcheck
-* Hypothesis
-* pytest-quickcheck: https://pypi.python.org/pypi/pytest-quickcheck/
+* **Factcheck**
+* **Hypothesis**: http://hypothesis.works/
+* **pytest-quickcheck**: https://pypi.python.org/pypi/pytest-quickcheck/
 
 
 
