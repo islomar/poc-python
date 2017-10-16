@@ -1,34 +1,34 @@
-#Multiprocessing
+# Multiprocessing
 Playground for trying the native library `multiprocessing`
 
-##Manual installation
+## Manual installation
 mkvirtualenv --python=/usr/local/bin/python3.5 multiprocessing
 workon multiprocessing
 
-##Execution
+## Execution
 `python <file_name>`
 For time profiling:
 `python -m cProfile [-o output_file] [-s sort_order] myscript.py`
 E.g.: `python -m cProfile -o multiprocessing_profiling.txt pool_example.py`
 
-##Documentation
+## Documentation
 https://docs.python.org/3/library/multiprocessing.html
 
-##Interesting videos
+## Interesting videos
 * Multiprocessing in Python: https://www.youtube.com/watch?v=s1SkCYMnfbY
 * Python Multiprocessing Introduction: https://www.youtube.com/watch?v=Lu5LrKh1Zno
 * Multiprocessing vs multithreading: https://www.youtube.com/watch?v=oIN488Ldg9k
 * Multiprocessing Pool (Map Reduce): https://www.youtube.com/watch?v=_1ZwkCY9wxk
 
-##Pools
+## Pools
 `class multiprocessing.Pool([processes[, initializer[, initargs[, maxtasksperchild]]]])`
 `processes` is the number of worker processes to use. If processes is None then the number returned by cpu_count() is used. 
 
-##Communication
+## Communication
 * Queue: one way communication
 * Pipe: two way communications
 
-##Example with profiling
+## Example with profiling
 cProfile and multiprocessing are not good friends... it crashes!
 For that reason, you should use it inside your code :-(
 
