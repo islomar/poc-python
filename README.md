@@ -10,6 +10,7 @@ Current version: 3.5.0
 [https://github.com/gregmalcolm/python_koans/wiki](https://github.com/gregmalcolm/python_koans/wiki)
 
 ## Resources
+* The Best of the Best Practices guide (BOBP) in Python: https://gist.github.com/sloria/7001839
 * http://interactivepython.org/runestone/static/pythonds/index.html
 * retrying library: https://julien.danjou.info/blog/2017/python-tenacity
 
