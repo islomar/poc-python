@@ -29,3 +29,5 @@
 ## Troubleshooting
 - https://github.com/slackapi/python-slack-sdk/issues/800
   - "Unfortunately, any publicly available API methods do not support slash command invocations."
+- https://stackoverflow.com/questions/39829741/execute-slash-command-as-slack-bot
+  - I just asked the Slack customer support if sending slash commands programmatically is still possible and received the following reply: I'm afraid not. Slash commands can only be triggered by human-sent messages from the client. Apologies.
