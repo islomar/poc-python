@@ -5,6 +5,10 @@
 - https://api.slack.com/authentication/token-types
 - https://api.slack.com/methods/chat.postMessage
   - Optional argument: `as_user' (https://api.slack.com/methods/chat.postMessage#authorship)
+  - https://api.slack.com/methods/chat.postMessage/test
+- Alternative to Python SDK: https://api.slack.com/web
+- https://medium.com/coveryourads/slack-bot-testing-e7ba6f91a98e
+- https://github.com/ErikKalkoken/slackApiDoc/blob/master/chat.command.md
 
 ## Prerequisites
 - `poetry install`: to install the required libraries in a virtualenv
@@ -21,3 +25,7 @@
    1. If your app has `chat:write.public` scope, your app can post messages without joining a channel as long as the channel is public.
 2. I added to my `islomar` Slack workspace.
 3. I invited the bot to the `#general` Slack channel with `/invite xx`
+
+## Troubleshooting
+- https://github.com/slackapi/python-slack-sdk/issues/800
+  - "Unfortunately, any publicly available API methods do not support slash command invocations."
