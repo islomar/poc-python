@@ -4,7 +4,7 @@ from slack_sdk import WebClient
 from slack_sdk.errors import SlackApiError
 
 logging.basicConfig(level=logging.DEBUG)
-slack_token = os.environ["SLACK_BOT_TOKEN"]
+slack_token = os.environ["SLACK_TOKEN"]
 client = WebClient(token=slack_token)
 
 try:

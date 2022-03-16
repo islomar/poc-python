@@ -11,8 +11,8 @@
 
 
 ## How to run the example
-- `SLACK_BOT_TOKEN="[your_secret_slack_bot_token]" python send_slack_message_as_bot.py`
-- I saved the SLACK_BOT_TOKEN as Gist secret
+- `SLACK_TOKEN="[your_secret_slack_token]" python send_slack_message.py`
+- I saved the SLACK_TOKEN as a Gist secret (both the Bot and the User)
 
 
 ## Steps I followed
